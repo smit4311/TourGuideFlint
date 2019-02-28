@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Tour Flint</string>
+    <string name="details_activity">Details</string>
+
+    <!-- Image descriptions -->
+    <string name="image_description">Flint image</string>
+    <string name="image_background_description">Background for opaque image</string>
+
+    <!-- Attractions Fragment -->
+    <string name="crossraods_village_name">Crossroads Village and Huckleberry Railroad</string>
+    <string name="crossraods_village_distance">Tourist attraction in Genesee, Michigan</string>
+    <string name="crossraods_village_details">1800s-era lakeside village offers 34 historic buildings
+        and a working train plus family activities.</string>
+    <string name="crossraods_village_description">What was yesterday really like? How simple was that
+        simpler time? There’s a place where history comes to life and you’re part of the experience.
+        It’s Crossroads Village, our one-of-a-kind collection of restored 19th century buildings,
+        amusement rides and authentic narrow-gauge railroad. Here you’ll see what life “way back
+        when” was all about. From the smithing of the iron to the churning of the butter to the
+        pressing of the cider. And so much more. </string>
+    <string name="crossraods_village_location">6140 N Bray Rd, Flint, MI 48505</string>
+
+    <string name="sloan_museum_name">Sloan Museum</string>
+    <string name="sloan_museum_distance">Museum in Burton, Michigan</string>
+    <string name="sloan_museum_detail">Specializes in the local history of Genesee County and the Flint area,
+        particularly in connection with the rise and decline of the local auto industry.</string>
+    <string name="sloan_museum_description">The Sloan Museum is a public museum located within the
+        Flint Cultural Center in Flint, Michigan. The museum specializes in the local history of
+        Genesee County and the Flint area, particularly in connection with the rise and decline of
+        the local auto industry. The museum, named in honor of longtime General Motors chief
+        executive officer Alfred P. Sloan, operates a cycle of special exhibitions and
+        celebrations.</string>
+    <string name="sloan_museum_location">4190 E Court St, Burton, MI 48509</string>
+
+    <string name="institute_of_arts_name">Flint Institute of Arts</string>
+    <string name="institute_of_arts_distance">Museum in Flint, Michigan</string>
+    <string name="institute_of_arts_detail">The second largest art museum in Michigan</string>
+    <string name="institute_of_arts_description">The Flint Institute of Arts is the second largest
+        art museum in the State of Michigan and one of the largest museum art schools in the nation.
+        Each year, more than 160,000 people visit the FIA’s galleries and participate in FIA programs
+        and services.</string>
+    <string name="institute_of_arts_location">1120 E Kearsley St, Flint, MI 48503</string>
+
+    <string name="planetarium_name">Longway Planetarium</string>
+    <string name="planetarium_distance">Planetarium in Flint, Michigan</string>
+    <string name="planetarium_detail">Astronomy demonstrations, classes and camps plus science and
+        laser rock shows under a 60-ft. dome.</string>
+    <string name="planetarium_description">Longway Planetarium presents educational and entertaining
+        shows exploring astronomy and science topics every day of the week!</string>
+    <string name="planetarium_location">1310 E. Kearsley St. Flint, MI 48503</string>
+
+
+    <!-- Colleges Fragment -->
+    <string name="kettering_name">Kettering University</string>
+    <string name="kettering_distance">Private university in Flint, Michigan</string>
+    <string name="kettering_detail">Kettering University is a private cooperative education and
+        experiential learning-based university in Flint, Michigan, offering bachelor\'s and master\'s
+        degrees in STEM and business fields. </string>
+    <string name="kettering_description">Kettering University (formerly General Motors Institute of
+        Technology) is a private cooperative education and experiential learning based university in
+        Flint, Michigan, offering bachelor\'s and master\'s degrees in STEM (Science, Technology,
+        Engineering, and Mathematics) and business fields. Students participate in a co-op based
+        education with a unique schedule featuring 6 months of a full time job at a participating
+        company (such as Ford Motor Company, General Motors, and many more).</string>
+    <string name="kettering_location">1700 University Ave, Flint, MI 48504</string>
+
+    <string name="um_flint_name">University of Michigan-Flint</string>
+    <string name="um_flint_distance">Public university in Flint, Michigan</string>
+    <string name="um_flint_detail">One of the two University of Michigan satellite campuses.</string>
+    <string name="um_flint_description">The University of Michigan–Flint is rated as one of the best
+        master\'s-level public universities in the Midwest by US News and World Report. The Princeton
+        Review has included UM–Flint in the "Best in the Midwest" category in their publication 2014
+        Best Colleges: Region by Region. The Part-Time MBA Program is ranked 41st in the United
+        States (overall) and 9th in the Midwest (by region).</string>
+    <string name="um_flint_location">303 E Kearsley St, Flint, MI 48502</string>
+
+    <string name="mott_cc_name">Mott Community College</string>
+    <string name="mott_cc_distance">Community college in Flint, Michigan</string>
+    <string name="mott_cc_detail">The college offers 61 associate degrees and 40 pre-associate certificates.</string>
+    <string name="mott_cc_description">It has satellite campuses in nearby Clio, Fenton,
+        Lapeer, and Howell. With over 10,00 students, Mott CC offers associates degrees with the
+        majority of students continuing education afterwards.</string>
+    <string name="mott_cc_location">1401 E Court St, Flint, MI 48503</string>
+
+    <!-- Food Fragment -->
+    <string name="churchills_name">Churchill\'s Food and Spirits</string>
+    <string name="churchills_distance">Downtown Flint</string>
+    <string name="churchills_detail">Draft brews, bar food and live music in an old-school atmosphere
+        with brick walls and an outdoor patio.</string>
+    <string name="churchills_description">Churchill’s Food and Spirits was established in 1980 and has
+        remained a staple of downtown Flint. It is our mission to provide the highest quality of
+        service possible using the highest quality of locally sourced ingredients spirits and brews
+        we can get our hands on. We take pride in being recognized as the premiere whiskey bar and
+        restaurant in the Flint area, while ranking among the best in the state of Michigan.</string>
+    <string name="churchills_location">340 Saginaw St, Flint, MI 48502</string>
+
+    <string name="crepe_company_name">Flint Crepe Company</string>
+    <string name="crepe_company_distance">Crêperie in Downtown Flint</string>
+    <string name="crepe_company_detail">Airy spot with industrial ceiling dispensing creative sweet
+        and savory crepes from local ingredients.</string>
+    <string name="crepe_company_description">Flint-roasted coffee and locally sourced ingredients,
+        savory and sweet crepes, homemade food. Ranked as one of Michigan’s Top 10 coffee shops with
+        a chai latte renowned state-wide, the Flint Crepe Co. also is home to unique and delicious
+        farm-to-fork meals.</string>
+    <string name="crepe_company_location">555 Saginaw St, Flint, MI 48502</string>
+
+    <string name="white_horse_name">White Horse Tavern</string>
+    <string name="white_horse_distance">Downtown Flint</string>
+    <string name="white_horse_detail">Circa-1973 family-run pub serving breakfast, American faves
+        and 10 beers on tap, open until 2 AM.</string>
+    <string name="white_horse_description">At the White Horse Tavern, we\'ve been cooking up great
+        burgers, pizzas, and more for the hardworking people of Flint, MI for 40 years!</string>
+    <string name="white_horse_location">621 W Court St, Flint, MI 48503</string>
+
+    <!-- Events Fragment -->
+    <string name="market_name">Flint Farmers Market</string>
+    <string name="market_distance">Downtown Flint</string>
+    <string name="market_detail">Open all year, come one come all spring winter and fall. Enjoy great food,
+        entertainment, kitchen demonstrations, events and more.</string>
+    <string name="market_description">We’re a year round public market with 50+ vendors inside the
+        building and more outside. Our market is neat and clean and feature several produce vendors,
+        a great meat market, poultry, breads and baked goods, cheese, a wine shop, an art gallery,
+        a cafe, middle-eastern and Mexican groceries, and many unique gifts. </string>
+    <string name="market_location">300 E 1st St, Flint, MI 48502</string>
+
+    <string name="crim_name">Flint Crim 5k</string>
+    <string name="crim_distance">Across Flint</string>
+    <string name="crim_detail">Yearly marathon with training and classes offered throughout the year</string>
+    <string name="crim_description">The Crim Festival of Races is an annual road running event with
+        several races and walking events. The original distance was 10 miles (16 kilometers) and is
+        the marque race as "The Crim" with its infamous Bradley Hills and blue line to keep runners
+        on course. The Crim has been held in August in Flint, Michigan since 1977. It draws runners
+        from around the world from countries such as Kenya, Russia, and Ukraine. The race attracts
+        approximately 50,000 people each year.</string>
+    <string name="crim_location">452 Saginaw St, Flint, MI 48502</string>
+
+    <string name="back_to_bricks_name">Back to the Bricks</string>
+    <string name="back_to_bricks_distance">Downtown Flint</string>
+    <string name="back_to_bricks_detail">Famous car show with thousands of visitors and participants</string>
+    <string name="back_to_bricks_description">The five-day extravaganza begins on Tuesday with
+        "Bricks Flicks," a family-oriented party at the nostalgic US-23 Drive-In theatre on Fenton
+        Road. During the main event week, excited crowds line the streets for the “Rolling Cruises”
+        as the parade route stretches from the "red bricks" of Saginaw Street in downtown Flint to
+        the city of Grand Blanc. On Friday, there will be a car show, concert, and dance party with
+        a Motown theme.  Thousands will stroll the brick streets on Saturday to admire vehicles of
+        every age and description, take pictures, buy souvenirs, and enjoy the fun. Beginning with
+        the Opening Ceremony, you will want to be there to experience the excitement, see the
+        amazing car show, check out the automotive vendors, and taste the delicious food that is
+        synonymous with Back to the Bricks®, one of the best Classic Car Events in the Nation.</string>
+    <string name="back_to_bricks_location">6452 Marble Ln, Flushing, MI 48433</string>
+
+</resources>
